@@ -1,4 +1,21 @@
-### Hi there 👋
+# Hello world👋 I'm Nikolai - aka malanka96:muscle:
+> Samurai has no purpose, only the way...
+
+## Front-end developer. 
+
+I started to learn on my own - from the resource [learn.javascript.ru](https://learn.javascript.ru/).
+Then I began to master the ***React*** library for writing web applications and the ***Redux*** library for managing the state of the application.
+
+### At the moment I am a member of the development team of one startup :rocket:
+
+I have experience in teamwork, as well as experience in creating SPA using:
+  - JS (ES6) / TS
+  - React
+  - Redux
+  - HTML
+  - CSS
+  
+[![Profile badge](https://www.codewars.com/users/MALANKA96/badges/large)](https://www.codewars.com/users/MALANKA96)
 
 <!--
 **MALANKA96/MALANKA96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
