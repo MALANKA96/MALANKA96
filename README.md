@@ -16,10 +16,9 @@ I have experience in teamwork, as well as experience in creating SPA using:
   - CSS
 
 ### My sandbox app ReDr
- <a href="https://malanka96.github.io/ReDr/">
-   <img style="width:400px" src="https://github.com/MALANKA96/MALANKA96/blob/main/assets/img/ReDr_v1.png" alt="ReDr img" />
+ <a href="https://malanka96.github.io/ReDr/" target="_blank">
+   <img style="width:400px" src="https://github.com/MALANKA96/MALANKA96/blob/main/assets/gif/ReDr_v1.gif" alt="ReDr img" />
  </a>
- ![ReDr_gif](https://github.com/MALANKA96/MALANKA96/blob/main/assets/gif/ReDr_v1.gif)
 
 [![Profile badge](https://www.codewars.com/users/MALANKA96/badges/large)](https://www.codewars.com/users/MALANKA96)
 
