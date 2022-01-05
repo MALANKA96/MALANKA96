@@ -16,7 +16,7 @@ I have experience in teamwork, as well as experience in creating SPA using:
   - CSS
 
 ### My sandbox app ReDr
- <a href="https://malanka96.github.io/ReDr/" target="_blank">
+ <a href="https://malanka96.github.io/ReDr/" target="_blank" >
    <img style="width:400px" src="https://github.com/MALANKA96/MALANKA96/blob/main/assets/gif/ReDr_v1.gif" alt="ReDr img" />
  </a>
 
