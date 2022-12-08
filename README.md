@@ -11,7 +11,7 @@ Then I began to master the ***React*** library for writing web applications and 
 I have experience in teamwork, as well as experience in creating SPA using:
   - JS (ES6) / TS
   - React
-  - Redux
+  - Redux toolkit 
   - HTML
   - CSS
 
